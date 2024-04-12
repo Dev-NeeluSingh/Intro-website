@@ -395,7 +395,11 @@ pre{
   flex:7;
   margin:2%;
  }
-
+  
+.introHeading{
+ font-size:9vw;
+}
+  
 .nameText{
   font-size:10vw;  
  }
